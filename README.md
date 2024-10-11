@@ -23,11 +23,17 @@ We have experimented with several machine learning models and optimization techn
 
 ### Performance Comparison
 The following plots show the validation accuracy and loss for different optimizers across epochs:
-![Validation Accuracy](path_to_val_accuracy_plot)
-![Validation Loss](path_to_val_loss_plot)
+
+## Validation Accuracy
+![image](https://github.com/user-attachments/assets/0a87665a-55b4-4c45-a918-a5c5a5faaed5)
+
+## Validation Loss
+![image](https://github.com/user-attachments/assets/c521ddc7-d961-4409-a4e9-aeb61ca2bcce)
 
 Here are the accuracy and loss metrics for the models used:
-![Model Metrics](path_to_model_metrics_plot)
+## Model Metrics
+![image](https://github.com/user-attachments/assets/28fd0b93-c72c-43c6-a1c8-622cac2407bb)
+
 
 ## Requirements
 This project is implemented using Python. Required libraries include TensorFlow, Keras, NumPy, Matplotlib, and others. A detailed list of requirements can be found in `requirements.txt`.
