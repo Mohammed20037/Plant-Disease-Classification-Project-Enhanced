@@ -6,7 +6,7 @@ This repository contains the code and dataset for a plant disease classification
 ## Dataset
 The dataset consists of images representing multiple classes of plant diseases. Each class corresponds to a specific disease affecting certain plant species. The images used in this project are categorized into several classes, as illustrated in the histograms and images provided in this repository.
 
-![Images per class] ![image](https://github.com/user-attachments/assets/b697cbc9-9101-4570-9592-886f6e40adfc)
+## Images per class ![image](https://github.com/user-attachments/assets/b697cbc9-9101-4570-9592-886f6e40adfc)
 ![Sample leaf images](path_to_leaf_images)
 
 ## Principal Component Analysis
