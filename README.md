@@ -8,13 +8,15 @@ The dataset consists of images representing multiple classes of plant diseases. 
 
 ## Images per class 
 ![image](https://github.com/user-attachments/assets/b697cbc9-9101-4570-9592-886f6e40adfc)
-![Sample leaf images]
+
+## Sample leaf images
 ![image](https://github.com/user-attachments/assets/c45275d4-ce41-4f2a-bc48-b54fada6108c)
 
 ## Principal Component Analysis
 We have utilized PCA to reduce the dimensionality of our dataset and to better understand the underlying patterns in the data. The PCA scatter plot illustrates the variance and clustering of the data points.
 
-![PCA Scatter Plot](path_to_pca_plot)
+## PCA Scatter Plot
+![image](https://github.com/user-attachments/assets/7a202d29-ccf6-4c94-aee1-02871f64ccf2)
 
 ## Model Training
 We have experimented with several machine learning models and optimization techniques to find the most effective approach for our classification task. The models evaluated include ResNet9, VGG16, and MobileNetV2. We have also compared different optimizers such as Adam, RMSprop, and SGD to optimize our models.
