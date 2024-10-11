@@ -41,3 +41,9 @@ This project is implemented using Python. Required libraries include TensorFlow,
 ## Usage
 To use this model for classifying plant diseases, follow these steps:
 1. Clone the repository:
+git clone https://github.com/Mohammed20037/Plant-Disease-Classification-Project-Enhanced.git
+
+2. Install dependencies:
+pip install -r requirements.txt
+
+
